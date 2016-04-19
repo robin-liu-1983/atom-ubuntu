@@ -1,0 +1,19 @@
+"*":
+  "atom-beautify":
+    general:
+      _analyticsUserId: "5509066d-24e5-420b-8618-092e5fa967f6"
+  "atom-markdown-katex":
+    openPreviewPaneAutomatically: false
+    pdfOpenAutomatically: true
+  core:
+    audioBeep: false
+    automaticallyUpdate: false
+    themes: [
+      "atom-light-ui"
+      "one-light-syntax"
+    ]
+  "exception-reporting":
+    userId: "2a7bf183-a3f9-cd6f-ccce-8d0801c89abd"
+  minimap: {}
+  welcome:
+    showOnStartup: false
